@@ -87,7 +87,7 @@
             <?php
              $servername="localhost";
              $username="root";
-             $password="Shubham@101";
+             $password="";
              $database_name="bank_data";
 
              $conn=mysqli_connect($servername,$username,$password,$database_name);
